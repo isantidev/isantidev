@@ -4,7 +4,7 @@
 I build clean, efficient, and user-friendly interfaces with React.js.  
 Currently sharpening my skills in **TypeScript** and the latest **ECMAScript features** to take my code quality to the next level.  
 
-🌍 Based in **Colombia** | 🌐 [isanti.dev](https://isanti.dev)  
+🌍 Based in **Colombia** | 🌐 <a href="https://isanti.dev" target="_blank">isanti.dev</a>
 
 ---
 
@@ -18,8 +18,7 @@ Currently sharpening my skills in **TypeScript** and the latest **ECMAScript fea
 ---
 
 ## 🔨 Projects
-
-### 🌐 [Portfolio Website](https://isanti.dev)
+### 🌐 <a href="https://isanti.dev" target="_blank">Portfolio Website</a>
 Showcasing my work, skills, and side projects.
 
 ### 🐧 Linux ISO Customization
@@ -61,9 +60,6 @@ Showcasing my work, skills, and side projects.
 ---
 
 ## 📫 Connect with Me
-- 🌐 Portfolio: [isanti.dev](https://isanti.dev)  
+- 🌐 Portfolio: 🌐 <a href="https://isanti.dev" target="_blank">isanti.dev</a> 
 - 💼 LinkedIn: [linkedin.com/in/isantidev](https://www.linkedin.com/in/isantidev/)  
 - 📧 Email: [santis.sierra6@gmail.com](mailto:santis.sierra6@gmail.com)  
-
----
-⭐️ From [isantidev](https://github.com/isantidev)
